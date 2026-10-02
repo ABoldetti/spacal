@@ -1,0 +1,7 @@
+executable              = run_script.sh 
+output                  = out/out.$(ClusterId).$(ProcId).out 
+error                   = err/err.$(ClusterId).$(ProcId).err 
+log                     = log/log.$(ClusterId).log  
+transfer_output_files   = "" 
++JobFlavour             = "workday" 
+queue arguments from args.txt 

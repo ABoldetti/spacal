@@ -1,0 +1,224 @@
+000 (15617566.000.000) 08/27 20:48:26 Job submitted from host: <137.138.44.75:9618?addrs=137.138.44.75-9618+[2001-1458-d00-1a--b]-9618&alias=bigbird14.cern.ch&noUDP&sock=schedd_2076396_86fa>
+...
+000 (15617566.001.000) 08/27 20:48:26 Job submitted from host: <137.138.44.75:9618?addrs=137.138.44.75-9618+[2001-1458-d00-1a--b]-9618&alias=bigbird14.cern.ch&noUDP&sock=schedd_2076396_86fa>
+...
+000 (15617566.002.000) 08/27 20:48:26 Job submitted from host: <137.138.44.75:9618?addrs=137.138.44.75-9618+[2001-1458-d00-1a--b]-9618&alias=bigbird14.cern.ch&noUDP&sock=schedd_2076396_86fa>
+...
+000 (15617566.003.000) 08/27 20:48:26 Job submitted from host: <137.138.44.75:9618?addrs=137.138.44.75-9618+[2001-1458-d00-1a--b]-9618&alias=bigbird14.cern.ch&noUDP&sock=schedd_2076396_86fa>
+...
+040 (15617566.000.000) 08/27 20:49:25 Started transferring input files
+	Transferring to host: <128.142.161.76:9618?addrs=128.142.161.76-9618+[2001-1458-301-b8--100-a]-9618&alias=b9g03p6105.cern.ch&noUDP&sock=slot1_28_6117_bad2_71924>
+...
+040 (15617566.001.000) 08/27 20:49:25 Started transferring input files
+	Transferring to host: <188.185.208.95:9618?addrs=188.185.208.95-9618+[2001-1458-303-f--100-5c]-9618&alias=b9p09p1039.cern.ch&noUDP&sock=slot1_10_9145_3acd_79821>
+...
+040 (15617566.000.000) 08/27 20:49:25 Finished transferring input files
+...
+001 (15617566.001.000) 08/27 20:49:25 Job executing on host: <188.185.208.95:9618?addrs=188.185.208.95-9618+[2001-1458-303-f--100-5c]-9618&alias=b9p09p1039.cern.ch&noUDP&sock=startd_9095_fdf2>
+	SlotName: slot1_10@b9p09p1039.cern.ch
+	CondorScratchDir = "/pool/condor/dir_212125"
+	Cpus = 1
+	Disk = 3816
+	GPUs = 0
+	Memory = 3000
+...
+040 (15617566.001.000) 08/27 20:49:25 Finished transferring input files
+...
+001 (15617566.000.000) 08/27 20:49:25 Job executing on host: <128.142.161.76:9618?addrs=128.142.161.76-9618+[2001-1458-301-b8--100-a]-9618&alias=b9g03p6105.cern.ch&noUDP&sock=startd_6072_7726>
+	SlotName: slot1_28@b9g03p6105.cern.ch
+	CondorScratchDir = "/pool/condor/dir_1700111"
+	Cpus = 1
+	Disk = 3874
+	GPUs = 0
+	Memory = 3000
+...
+040 (15617566.002.000) 08/27 20:49:26 Started transferring input files
+	Transferring to host: <188.185.196.172:9618?addrs=188.185.196.172-9618+[2001-1458-303-23--100-a8]-9618&alias=b9p16p3307.cern.ch&noUDP&sock=slot1_15_3111650_aaff_72044>
+...
+040 (15617566.002.000) 08/27 20:49:26 Finished transferring input files
+...
+001 (15617566.002.000) 08/27 20:49:26 Job executing on host: <188.185.196.172:9618?addrs=188.185.196.172-9618+[2001-1458-303-23--100-a8]-9618&alias=b9p16p3307.cern.ch&noUDP&sock=startd_3111601_0d77>
+	SlotName: slot1_15@b9p16p3307.cern.ch
+	CondorScratchDir = "/pool/condor/dir_2812351"
+	Cpus = 1
+	Disk = 3809
+	GPUs = 0
+	Memory = 3000
+...
+040 (15617566.003.000) 08/27 20:49:26 Started transferring input files
+	Transferring to host: <188.185.210.184:9618?addrs=188.185.210.184-9618+[2001-1458-303-15--100-34]-9618&alias=b9p22p5620.cern.ch&noUDP&sock=slot1_22_7851_7d58_112345>
+...
+040 (15617566.003.000) 08/27 20:49:26 Finished transferring input files
+...
+001 (15617566.003.000) 08/27 20:49:26 Job executing on host: <188.185.210.184:9618?addrs=188.185.210.184-9618+[2001-1458-303-15--100-34]-9618&alias=b9p22p5620.cern.ch&noUDP&sock=startd_7292_48b1>
+	SlotName: slot1_22@b9p22p5620.cern.ch
+	CondorScratchDir = "/pool/condor/dir_1670667"
+	Cpus = 1
+	Disk = 3800
+	GPUs = 0
+	Memory = 3000
+...
+006 (15617566.003.000) 08/27 20:49:35 Image size of job updated: 440740
+	431  -  MemoryUsage of job (MB)
+	440740  -  ResidentSetSize of job (KB)
+...
+006 (15617566.000.000) 08/27 20:49:39 Image size of job updated: 45208
+	45  -  MemoryUsage of job (MB)
+	45208  -  ResidentSetSize of job (KB)
+...
+006 (15617566.001.000) 08/27 20:49:39 Image size of job updated: 132932
+	130  -  MemoryUsage of job (MB)
+	132932  -  ResidentSetSize of job (KB)
+...
+006 (15617566.002.000) 08/27 20:49:40 Image size of job updated: 101368
+	99  -  MemoryUsage of job (MB)
+	101368  -  ResidentSetSize of job (KB)
+...
+006 (15617566.003.000) 08/27 20:54:36 Image size of job updated: 663164
+	648  -  MemoryUsage of job (MB)
+	663164  -  ResidentSetSize of job (KB)
+...
+006 (15617566.000.000) 08/27 20:54:40 Image size of job updated: 782544
+	285  -  MemoryUsage of job (MB)
+	291652  -  ResidentSetSize of job (KB)
+...
+006 (15617566.001.000) 08/27 20:54:40 Image size of job updated: 785328
+	288  -  MemoryUsage of job (MB)
+	294132  -  ResidentSetSize of job (KB)
+...
+006 (15617566.002.000) 08/27 20:54:41 Image size of job updated: 783892
+	277  -  MemoryUsage of job (MB)
+	283516  -  ResidentSetSize of job (KB)
+...
+006 (15617566.003.000) 08/27 20:59:36 Image size of job updated: 716128
+	700  -  MemoryUsage of job (MB)
+	716128  -  ResidentSetSize of job (KB)
+...
+006 (15617566.000.000) 08/27 20:59:40 Image size of job updated: 782544
+	337  -  MemoryUsage of job (MB)
+	344988  -  ResidentSetSize of job (KB)
+...
+006 (15617566.001.000) 08/27 20:59:40 Image size of job updated: 785328
+	340  -  MemoryUsage of job (MB)
+	347216  -  ResidentSetSize of job (KB)
+...
+006 (15617566.002.000) 08/27 20:59:41 Image size of job updated: 783892
+	329  -  MemoryUsage of job (MB)
+	336556  -  ResidentSetSize of job (KB)
+...
+006 (15617566.003.000) 08/27 21:04:37 Image size of job updated: 1432724
+	1400  -  MemoryUsage of job (MB)
+	1432724  -  ResidentSetSize of job (KB)
+...
+006 (15617566.000.000) 08/27 21:04:40 Image size of job updated: 881608
+	861  -  MemoryUsage of job (MB)
+	881608  -  ResidentSetSize of job (KB)
+...
+006 (15617566.001.000) 08/27 21:04:41 Image size of job updated: 1309324
+	1279  -  MemoryUsage of job (MB)
+	1309324  -  ResidentSetSize of job (KB)
+...
+006 (15617566.002.000) 08/27 21:04:42 Image size of job updated: 881012
+	861  -  MemoryUsage of job (MB)
+	881012  -  ResidentSetSize of job (KB)
+...
+006 (15617566.001.000) 08/27 21:06:27 Image size of job updated: 1545284
+	1279  -  MemoryUsage of job (MB)
+	1309324  -  ResidentSetSize of job (KB)
+...
+040 (15617566.001.000) 08/27 21:06:27 Started transferring output files
+...
+040 (15617566.001.000) 08/27 21:06:27 Finished transferring output files
+...
+005 (15617566.001.000) 08/27 21:06:27 Job terminated.
+	(1) Normal termination (return value 50)
+		Usr 0 00:04:35, Sys 0 00:00:13  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:04:35, Sys 0 00:00:13  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	69634  -  Run Bytes Sent By Job
+	1153  -  Run Bytes Received By Job
+	69634  -  Total Bytes Sent By Job
+	1153  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       0.00        1         1 
+	   Disk (KB)            : 1240567           2      3816 
+	   GPUs                 :                             0 
+	   Memory (MB)          :    1279        3000      3000 
+
+	Job terminated of its own accord at 2025-08-27T19:06:27Z with exit-code 50.
+...
+040 (15617566.003.000) 08/27 21:07:10 Started transferring output files
+...
+040 (15617566.003.000) 08/27 21:07:10 Finished transferring output files
+...
+005 (15617566.003.000) 08/27 21:07:10 Job terminated.
+	(1) Normal termination (return value 50)
+		Usr 0 00:04:58, Sys 0 00:00:14  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:04:58, Sys 0 00:00:14  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	69383  -  Run Bytes Sent By Job
+	1153  -  Run Bytes Received By Job
+	69383  -  Total Bytes Sent By Job
+	1153  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       0.00        1         1 
+	   Disk (KB)            : 1289390           2      3800 
+	   GPUs                 :                             0 
+	   Memory (MB)          :    1400        3000      3000 
+
+	Job terminated of its own accord at 2025-08-27T19:07:10Z with exit-code 50.
+...
+006 (15617566.002.000) 08/27 21:07:44 Image size of job updated: 1543840
+	861  -  MemoryUsage of job (MB)
+	881012  -  ResidentSetSize of job (KB)
+...
+040 (15617566.002.000) 08/27 21:07:44 Started transferring output files
+...
+040 (15617566.002.000) 08/27 21:07:44 Finished transferring output files
+...
+005 (15617566.002.000) 08/27 21:07:44 Job terminated.
+	(1) Normal termination (return value 50)
+		Usr 0 00:05:46, Sys 0 00:00:10  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:05:46, Sys 0 00:00:10  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	69166  -  Run Bytes Sent By Job
+	1153  -  Run Bytes Received By Job
+	69166  -  Total Bytes Sent By Job
+	1153  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       0.00        1         1 
+	   Disk (KB)            : 1237333           2      3809 
+	   GPUs                 :                             0 
+	   Memory (MB)          :     861        3000      3000 
+
+	Job terminated of its own accord at 2025-08-27T19:07:44Z with exit-code 50.
+...
+006 (15617566.000.000) 08/27 21:08:29 Image size of job updated: 1528948
+	861  -  MemoryUsage of job (MB)
+	881608  -  ResidentSetSize of job (KB)
+...
+040 (15617566.000.000) 08/27 21:08:29 Started transferring output files
+...
+040 (15617566.000.000) 08/27 21:08:30 Finished transferring output files
+...
+005 (15617566.000.000) 08/27 21:08:30 Job terminated.
+	(1) Normal termination (return value 50)
+		Usr 0 00:07:00, Sys 0 00:00:16  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:07:00, Sys 0 00:00:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	68990  -  Run Bytes Sent By Job
+	1153  -  Run Bytes Received By Job
+	68990  -  Total Bytes Sent By Job
+	1153  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       0.00        1         1 
+	   Disk (KB)            : 1230705           2      3874 
+	   GPUs                 :                             0 
+	   Memory (MB)          :     861        3000      3000 
+
+	Job terminated of its own accord at 2025-08-27T19:08:29Z with exit-code 50.
+...

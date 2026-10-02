@@ -1,0 +1,8 @@
+simulations/slanted_e2/calibration_100_2000_10.data filter=lfs diff=lfs merge=lfs -text
+simulations/slanted_pi/calibration_100_2000_10.data filter=lfs diff=lfs merge=lfs -text
+simulations/slanted_pi2/calibration_100_2000_10.data filter=lfs diff=lfs merge=lfs -text
+simulations/centered_beam/calibration_100_2000_10.data filter=lfs diff=lfs merge=lfs -text
+simulations/failure/calibration_100_2000_10.data filter=lfs diff=lfs merge=lfs -text
+simulations/first_e/calibration_100_2000_10.data filter=lfs diff=lfs merge=lfs -text
+simulations/first_pi/calibration_100_2000_10.data filter=lfs diff=lfs merge=lfs -text
+simulations/slanted_e/calibration_100_2000_10.data filter=lfs diff=lfs merge=lfs -text

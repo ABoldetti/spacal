@@ -1,0 +1,5 @@
+/pool/condor/dir_3545810/run_script.sh: line 31:   428 Aborted                 (core dumped) $PROPAGATE -i output_temp.root -c "$CALIBRATION" -o hybrid_temp.root --photonSeed $SEED --type 0 --rebinCali 1
+Error in <TBranchElement::WriteBasketImpl>: basket's WriteBuffer failed.
+Error in <TBranchElement::TBranch::Fill>: Failed to write out basket.
+
+Error in <TBranchElement::Fill>: Failed filling branch:mod0_t, nbytes=-1

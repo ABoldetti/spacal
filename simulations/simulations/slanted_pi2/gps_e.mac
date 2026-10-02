@@ -1,0 +1,18 @@
+/gps/particle pi0
+
+/gps/pos/type Plane
+/gps/pos/shape Square
+/gps/pos/halfx 3  mm
+/gps/pos/halfy 3  mm
+
+/gps/pos/centre -22.40 -22.40 -250 mm
+/gps/direction 0.052264 0.052264 0.997265		
+
+
+/gps/energy 1 GeV
+
+# run
+
+/run/printProgress 10
+/run/beamOn 100
+

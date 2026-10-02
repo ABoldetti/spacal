@@ -1,0 +1,1 @@
+/pool/condor/dir_110321/run_script.sh: line 31:   428 Aborted                 (core dumped) $PROPAGATE -i output_temp.root -c "$CALIBRATION" -o hybrid_temp.root --photonSeed $SEED --type 0 --rebinCali 1
