@@ -1,0 +1,4 @@
+archive.7z.002 filter=lfs diff=lfs merge=lfs -text
+archive.7z.003 filter=lfs diff=lfs merge=lfs -text
+archive.7z.004 filter=lfs diff=lfs merge=lfs -text
+archive.7z.001 filter=lfs diff=lfs merge=lfs -text
